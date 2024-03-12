@@ -2,7 +2,7 @@
 
 Submitted by: **Dawit Tekeste**
 
-**Trivia** is an app that ... [TODO] 
+**Trivia** is an app that has 3 questions and users will have a score after going through all 3 questions and can restart the game to get 3/3
 
 Time spent: **2** hours spent in total
 
