@@ -38,6 +38,8 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+I was a little frustrated on how to create a view controller as the youtube I watched in the past had the toolkits in the bottom but now everything is added in the UI toolkit, but that was just frustrating not hard
+
 ## License
 
     Copyright [2024] [Dawit Tekeste]
